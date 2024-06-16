@@ -2,7 +2,7 @@
 #### I am a computer science student
 I am a computer science student and I love programming and everything related to it. I research this field a lot and always strive to develop myself....
 
-Skills: C++ / Java / OOP / SQL 
+Skills: C++ / Java / OOP / SQL / problem solving
 
 - 🔭 I’m currently working on this page. 
 
